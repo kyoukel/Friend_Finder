@@ -1,0 +1,51 @@
+{
+    "matches": [{
+            "name": "Britney Spears",
+            "photo": "../public/images/britney_spears.jpg",
+            "scores": [1, 3, 2, 4, 5, 3, 1, 2, 4, 5 ]
+        },
+        {
+            "name": "Danny Trejo",
+            "photo": "../public/images/danny_trejo.jpg",
+            "scores": [2, 1, 4, 5, 3, 3, 5, 2, 4, 1]
+        },
+        {
+            "name": "Catherine Zeta-Jones",
+            "photo": "../public/images/catherine_zeta_jones.jpg",
+            "scores": [3, 4, 5, 1, 2, 3, 2, 5, 1, 2]
+        },
+        {   "name": "Dwayne 'The Rock' Johnson",
+            "photo": "../public/images/dwayne_johnson.jpg",
+            "scores": [5, 1, 3, 2, 4, 1, 3, 4, 2, 5]
+        },
+        {
+            "name": "Kristen Stewart",
+            "photo": "../public/images/kristen_stuart.jpg",
+            "scores": [4, 2, 5, 1, 3, 2, 1, 4, 5, 3]
+        },
+        {
+            "name": "Sheldon Cooper",
+            "photo": "../public/images/sheldon_cooper.jpg",
+            "scores": [3, 4, 2, 1, 5, 3, 1, 5, 2, 4]
+        },
+        {
+            "name": "Miranda Kerr",
+            "photo": "../public/images/miranda_kerr.jpg",
+            "scores": [4, 3, 2, 1, 5, 2, 3, 5, 4, 1]   
+        },
+        {
+            "name": "Simon Cowell",
+            "photo": "../public/images/simon_cowell.jpg",
+            "scores": [1, 4, 5, 2, 3, 4, 2, 1, 5, 3]
+        },
+        {
+            "name": "Serena Williams",
+            "photo": "../public/images/serena_williams.jpg",
+            "scores": [2, 3, 5, 4, 1, 1, 4, 3, 2, 5]
+        },
+        {
+            "name": "Vanilla Ice",
+            "photo": "../public/images/vanilla_ice.jpg",
+            "scores": [5, 2, 1, 3, 4, 1, 3, 4, 2, 5]
+        }]
+}
