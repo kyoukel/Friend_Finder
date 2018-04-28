@@ -4,3 +4,11 @@ $('#surveyBtn').on('click', function (event) {
     $.post('./api/matches', data)
         .then(response => console.log(response))
 })
+
+function on() {
+    document.getElementById("overlay").style.display = "block";
+}
+
+function off() {
+    document.getElementById("overlay").style.display = "none";
+}

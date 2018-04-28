@@ -187,28 +187,32 @@
                         </div>
                     </div>
 
-                    <button onclick="onclick()" id="surveyBtn" type="submit" class="btn btn-success col-xs-12" val="Submit">
-                        <span class="glyphicon glyphicon-ok-circle"></span> Submit</button>
+                    <div id="overlay" onclick="off()">
+                            <div id="text">Overlay Text</div>
+                                <button onclick="onclick()" id="surveyBtn" type="submit" class="btn btn-success col-xs-12" val="Submit">
+                                    <span class="glyphicon glyphicon-ok-circle"></span> Submit</button>
+                    </div>
                 </form>
             </div>
         </div>
         <br>
         <br>
 
-        <!-- <div id="overlayBritney" onclick="off()">
-            <div id="text">Brittany Spears</div>
-          </div> -->
-          
-          <!-- <div style="padding:20px">
-            <h2>Overlay with Text</h2>
-            <button onclick="on()">Turn on overlay effect</button>
-          </div> -->
-
         <a href="./index.html" class="btn btn-info" role="button">
             <span class="glyphicon glyphicon-home"></span> Go Home
             </button>
         </a>
     </div>
+
+    <!-- <div id="overlay" onclick="off()">
+        <div id="text">Overlay Text</div>
+      </div> -->
+      
+      <div style="padding:20px">
+        <h2>Overlay with Text</h2>
+        <button onclick="on()">Turn on overlay effect</button>
+      </div>
+      
 </body>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
